@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "r": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.2.1",
+    "moment-timezone": "^0.5.28"
+  }
+}
